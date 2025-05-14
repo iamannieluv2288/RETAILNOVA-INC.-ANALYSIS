@@ -4,12 +4,14 @@ OBJECTIVES:
 3.	Understand weekly sales behavior and optimize operations accordingly.
 4.	Identify the key drivers and inhibitors of sales.
 5.	Deliver actionable recommendations for growth and efficiency.
+   
 METHODOLOGY
 •	Data Collection: Historical sales data (2014–2017), transactions, customer segments, geographic details.
 •	Visualization: Power BI is used to build interactive charts, KPI cards, and AI insights.
 •	Segmentation: By state, category, shipping mode, and customer type.
 •	AI Insights: Used Power BI’s Key Influencer visual to identify drivers of sales performance.
 •	Filters & Slicers: Implemented to allow users to drill into regions, years, and categories.
+
 KEY INSIGHTS
 1.	Sales Performance Over Time: The company’s sales exhibited clear seasonal trends, with notable peaks occurring between March to May and again during the fourth quarter (September to December). This suggests a correlation between consumer demand and seasonal cycles, possibly influenced by promotional events or holidays.
 
