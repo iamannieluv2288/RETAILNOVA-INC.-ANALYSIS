@@ -37,6 +37,7 @@ KEY INSIGHTS
 
 
 RECOMMENDATION
+
 •	Enhance Marketing in High-Performing States: RetailNova Inc. should intensify its marketing and promotional efforts in high-performing states such as California, New York, and Texas, as these regions contribute the largest share of total sales. Customized campaigns, localized offers, and loyalty programs in these markets can further drive revenue growth.
 
 •	Address Sales Gaps in Underperforming States: The company should conduct targeted investigations into low-performing states like South Dakota, Idaho, and Montana to determine the root causes of weak sales. Strategic initiatives such as regional promotions, localized advertising, or new distribution partnerships could help penetrate these markets more effectively.
